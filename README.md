@@ -1,7 +1,7 @@
 # Domain Model for a School
 
 ## Objectives
-
+k
 1. Define the concept of a domain model.
 2. Create your own domain model.
 3. Write instance methods that manipulate nested data structures.
