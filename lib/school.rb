@@ -1,4 +1,3 @@
-require 'pry'
 class School
   #these are my reader and writer METHODS used 
   attr_accessor :roster, :school_name, :grade 
